@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 💙
 
-Meu nome é vinicius moura
+Meu nome é Vinicius moura
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
